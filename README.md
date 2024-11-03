@@ -1,6 +1,6 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineering student, I am continually expanding my knowledge and skill set by taking on projects that challenge my coding abilities and understanding C#.
 
 ## Description
 
