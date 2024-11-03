@@ -1,0 +1,28 @@
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/bin/Debug/net8.0/RecipeManagement
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/bin/Debug/net8.0/RecipeManagement.deps.json
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/bin/Debug/net8.0/RecipeManagement.runtimeconfig.json
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/bin/Debug/net8.0/RecipeManagement.dll
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/bin/Debug/net8.0/RecipeManagement.pdb
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/RecipeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/RecipeManagement.AssemblyInfoInputs.cache
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/RecipeManagement.AssemblyInfo.cs
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/RecipeManagement.csproj.CoreCompileInputs.cache
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/RecipeManagement.dll
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/refint/RecipeManagement.dll
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/RecipeManagement.pdb
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/RecipeManagement.genruntimeconfig.cache
+/Users/joshraudales/GitHub/Recipe Management/RecipeManagement/obj/Debug/net8.0/ref/RecipeManagement.dll
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/bin/Debug/net8.0/RecipeManagement
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/bin/Debug/net8.0/RecipeManagement.deps.json
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/bin/Debug/net8.0/RecipeManagement.runtimeconfig.json
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/bin/Debug/net8.0/RecipeManagement.dll
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/bin/Debug/net8.0/RecipeManagement.pdb
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/RecipeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/RecipeManagement.AssemblyInfoInputs.cache
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/RecipeManagement.AssemblyInfo.cs
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/RecipeManagement.csproj.CoreCompileInputs.cache
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/RecipeManagement.dll
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/refint/RecipeManagement.dll
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/RecipeManagement.pdb
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/RecipeManagement.genruntimeconfig.cache
+/Users/joshraudales/GitHub/RecipeManagement/RecipeManagement/obj/Debug/net8.0/ref/RecipeManagement.dll
